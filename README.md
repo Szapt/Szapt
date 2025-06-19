@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santi!</h1>
-<h3 align="center">I'm 18 years old, currently enrolled in CS Major at the University of Antioquia. I'm intensely drawn to both the logic and power of Backend development and the collaborative nature of project leadership. My experiences in Hackathons and pitch workshops have allowed me to explore both these interests.</h3>
+<h3 align="center">I'm 19 years old, currently enrolled in CS Major at the University of Antioquia. I'm intensely drawn to both the logic and power of Backend development and the collaborative nature of project leadership. My experiences in Hackathons and pitch workshops have allowed me to explore both these interests.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
