@@ -16,6 +16,8 @@ I'm a 19-year-old Computer Science student at the University of Antioquia, passi
 [![](https://komarev.com/ghpvc/?username=Szapt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/b12ccf7d-f541-4fb7-ac47-7964653e2bbe" title="AWS Cloud Club Core Team"><img src="https://images.credly.com/size/80x80/images/68fdcd60-3f31-4a24-b87a-90110ab11ee9/blob" alt="AWS Cloud Club Core Team" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/247f3b4b-150b-438a-82f8-04affb7340b7" title="CCNA: Introduction to Networks"><img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
