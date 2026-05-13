@@ -2,7 +2,7 @@
 I'm a 19-year-old Computer Science student at the University of Antioquia, passionate about Backend development and cloud infrastructure. Recently, I've been deepening my focus on architecture and services like AWS — drawn to how systems are designed to scale, communicate, and hold together under pressure. My experience in Hackathons and pitch workshops has sharpened both my technical thinking and my ability to lead and collaborate on fast-moving projects.
 
 
-### 🌐 Let's Connect:
+### 🌐 My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/szapata__) 
 
 ### ⚙️ What I Work With
